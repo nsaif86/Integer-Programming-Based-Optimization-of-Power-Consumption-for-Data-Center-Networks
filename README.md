@@ -7,7 +7,7 @@ This project represents the work in our paper submitted to [Acta Cybernetica Jur
 - LinGo code of Integer Linear Programming model to optimize the power in Data Center
  - Benchmarks.
 
-See this [video](https://www.youtube.com/watch?v=Um_MVsb1DsA&t=12s), which includes a practical example of running the code at the end. Please, if you find the code useful, cite our work.
+See this [video](https://www.youtube.com/watch?v=tfyDH6iGQCc), which includes a practical example of running the code at the end. Please, if you find the code useful, cite our work.
 
 @inproceedings{nsaif2022ml,
   title={ML-based online traffic classification for SDNs},
