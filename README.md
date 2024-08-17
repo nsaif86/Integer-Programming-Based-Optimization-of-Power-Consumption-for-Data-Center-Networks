@@ -1,6 +1,6 @@
 # Integer-Programming-Based-Optimization-of-Power-Consumption-for-Data-Center-Networks
 
-This project represents the work in our paper submitted to [Acta Cybernetica Jurnal](https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/4335) "Integer Programming Based Optimization of Power Consumption for Data Center Networks",  DOI: [10.1109/CITDS54976.2022.9914138](https://doi.org/10.1109/CITDS54976.2022.9914138), Authors: [Gergely Kovásznai](https://ieeexplore.ieee.org/author/37569885400); [Mohammed Nsaif](https://ieeexplore.ieee.org/author/37089577341).
+This project represents the work in our paper submitted to [Acta Cybernetica Jurnal](https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/4335) "Integer Programming Based Optimization of Power Consumption for Data Center Networks",  DOI: [10.14232/actacyb.299115](https://doi.org/10.14232/actacyb.299115), Authors: [Gergely Kovásznai](https://ieeexplore.ieee.org/author/37569885400); [Mohammed Nsaif](https://ieeexplore.ieee.org/author/37089577341).
 
 ### In this project, we provide:
 
